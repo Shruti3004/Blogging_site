@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "title": "",
+        "description": "",
+        "date": "",
+        "author": "",
+        "likes": "",
+        "comments": [
+            {
+                "id": 1,
+                "author": "",
+                "description": ""
+            }
+        ]
+    }
+]
